@@ -1,4 +1,4 @@
-**# Web-Skills-with-Shikmamaru-7**# Web-Skills-with-Shikmamaru(7)
+# Web-Skills-with-Shikmamaru(7)
 ![Shikamaru](https://github.com/whitebird1016/Web-Skills-with-Shikmamaru/blob/main/1_HTGSqvOc52yfMwyLhCMjVA.jpeg)
 <h2>DOM Skills</h2>
 <h3>1: Show all DOM borders</h3>
